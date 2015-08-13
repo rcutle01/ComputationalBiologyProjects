@@ -2,7 +2,7 @@
 Python program that implements a de Bruijn graph to assemble a sequence of contigs
 
 README file for assembler.py for Comp 167 hw2
-written by: Becky Cutler (rcutle01)
+    written by: Becky Cutler (rcutle01)
     2.17.15
 
 Summary: This program aims to separate a given file of sequence into its respective kmers 

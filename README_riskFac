@@ -1,0 +1,18 @@
+#
+#       Readme file for risk_factornew.py
+#       Comp 167 Final Project 
+#       Written by: Becky Cutler
+#       4.21/15
+
+This program calculates the risk factor based on the inputted dempgraphics for
+HIV, coronary heart disease, stroke and diabetes within the U.S.
+It reads in the four given files, creates 4 separate lists for each
+disease/virus, walks through the list and calculates the risk factor for the
+user's demopgraphics by adding up the risk factor from each catagory (for
+example, male, asian, age 46). If the user is a member of a particular risk
+group, such as obesity, then the program outputs suggestions to help lower the
+user's risk. For a detailed description of the program, calculations for the
+risk factor and a full reference sheet, see the written report.
+
+How to compile/run:
+python riskFactor.py hiv_data heart_disease stroke_data diabetes_data

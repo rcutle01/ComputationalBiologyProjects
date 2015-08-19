@@ -10,7 +10,7 @@ import collections, sys,string, argparse, re
 import string, math, operator, sys, os
 
 # Node for the graph that contains the key (i.e. male or femaile, etc) and the
-# value (risk factor represented as a percentage)
+# value (risk factor represented as a percentage) 
 class Node:
         def __init__ (self, key, value):
                 self.id = key
